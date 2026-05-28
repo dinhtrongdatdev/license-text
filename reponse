@@ -1,33 +1,9 @@
 https://api.inssist.com/api/v1/fspring/data
 {
   "status": "ok",
-  "subscriptions": {},
-  "products": {
-    "inssist-pro-monthly": 0,
-    "inssist-pro-lifetime": 0,
-    "inssist-pro-infinite": 1
-  },
   "orders": [
     {
-      "product": "inssist-pro-infinite",
-      "created": 1760000000000,
-      "tags": {
-        "accounts": [
-          {
-            "id": "INSTAGRAM_USER_ID",
-            "name": "instagram_username"
-          }
-        ]
-      }
-    }
-  ],
-  "proUsernames": [
-    {
-      "id": "INSTAGRAM_USER_ID",
-      "username": "instagram_username",
-      "proStatus": "pro",
-      "activatedOn": 1760000000000,
-      "canceledOn": null
+      "product": "inssist-pro-infinite"
     }
   ]
 }
