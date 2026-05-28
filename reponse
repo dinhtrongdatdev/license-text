@@ -1,0 +1,9 @@
+https://api.inssist.com/api/v1/fspring/data
+{
+  "status": "ok",
+  "orders": [
+    {
+      "product": "inssist-pro-infinite"
+    }
+  ]
+}
